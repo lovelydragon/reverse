@@ -1,2 +1,3 @@
 # reverse
-使用java快速反转一个整数
+使用java快速反转一个整数 
+在Stringbuff类中有一个方法reverse专门用来反转string 则只需要把int转换成string，进行反转，再转换成int即可
